@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbd9cc245bccb8372de61a081db8d40c010ec2b60",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xbd9cc245bccb8372de61a081db8d40c010ec2b60",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "HashGuys",
+  "SYMBOL": "GUYS",
+  "MAX_SUPPLY": 4884,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
